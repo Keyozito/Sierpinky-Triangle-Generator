@@ -1,6 +1,5 @@
 import pygame
 import random
-import time
 
 pygame.init()
 tela = pygame.display.set_mode((600,600))
